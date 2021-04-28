@@ -1,5 +1,10 @@
 .pages {
-    font-size: 20;
+    font-size: 18;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
+}
+
+.button {
+    margin-left: 10;
+    margin-right: 10;
 }
