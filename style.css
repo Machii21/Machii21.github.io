@@ -20,6 +20,16 @@
     text-align: center;
 }
 
-p {
-    display: inline;
+.image {
+    display: block;
+    position: static;
+    height: 433;
+    width: 200;
+    margin-left: 100;
+}
+
+.yes {
+    position: relative;
+    bottom: 433px;
+    left: 375px;
 }
