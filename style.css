@@ -9,12 +9,17 @@
 }
 
 .button {
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    font-size: 25px;
 }
 
 .heading {
     color: yellow;
     text-align: center;
+}
+
+p {
+    display: inline;
 }
